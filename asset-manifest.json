@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UFO/static/css/main.75b20b2c.css",
+    "main.js": "/UFO/static/js/main.33551093.js",
+    "static/media/background2.jpg": "/UFO/static/media/background2.ec546fdd81fbf2ccf2d9.jpg",
+    "index.html": "/UFO/index.html",
+    "main.75b20b2c.css.map": "/UFO/static/css/main.75b20b2c.css.map",
+    "main.33551093.js.map": "/UFO/static/js/main.33551093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b20b2c.css",
+    "static/js/main.33551093.js"
+  ]
+}
